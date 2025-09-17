@@ -1,3 +1,4 @@
+<img width="547" height="435" alt="download" src="https://github.com/user-attachments/assets/e79889dd-a025-41a7-9cde-5e3f55827365" />
 # Logistic Regression Model using TensorFlow
 
 ## 📌 Project Overview
